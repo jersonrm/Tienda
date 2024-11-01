@@ -1,0 +1,12 @@
+{
+  "name": "tienda",
+  "version": "1.0.0",
+  "description": "Tienda online",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "Jerson Reyes",
+  "license": "MIT"
+}
