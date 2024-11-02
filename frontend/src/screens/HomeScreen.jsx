@@ -1,7 +1,8 @@
 import React from 'react'
+import { useEffect, useState } from 'react'
 import { Row, Col } from 'react-bootstrap'
-import products from '../products'
 import Product from '../components/Product'
+import products from '../products'
 
 const HomeScreen = () => {
   return (
